@@ -66,7 +66,7 @@ with col2:
     """,
     unsafe_allow_html=True
     )
-    st.write("Laura est une spécialiste en gestion de projet, assurant la coordination de l'équipe.")
+    st.write("Spécialiste en gestion de projet, nous avons adopté une approche Agile pour assurer un développement fluide et efficace de cette application. En concevant la page de recherche de vols avec affichage des prix, j’ai affiné mon expertise en requêtage d’API et en web scraping, permettant d’offrir aux utilisateurs des informations tarifaires précises et en temps réel.")
 
     cv, qr_code = st.columns([1, 1])
     with cv:
